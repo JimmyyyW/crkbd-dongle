@@ -1,2 +1,0 @@
-config SHIELD_THE_CORN_DONGLE
-    def_bool $(shields_list_contains,the_corn_dongle)
