@@ -1,0 +1,1 @@
+list(APPEND ZMK_SHIELDS ${CMAKE_CURRENT_LIST_DIR}/..boards/shields)
